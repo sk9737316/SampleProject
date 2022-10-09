@@ -2,3 +2,4 @@ local: file 1 added
 
 
 local:second line added
+local:3rd line added
